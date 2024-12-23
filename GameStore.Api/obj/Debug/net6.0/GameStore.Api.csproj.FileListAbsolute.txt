@@ -1,0 +1,205 @@
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\appsettings.Development.json
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\appsettings.json
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\GameStore.Api.exe
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\GameStore.Api.deps.json
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\GameStore.Api.runtimeconfig.json
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\GameStore.Api.dll
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\GameStore.Api.pdb
+E:\course work\GameStore\GameStore.Api\obj\Debug\net6.0\GameStore.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\course work\GameStore\GameStore.Api\obj\Debug\net6.0\GameStore.Api.AssemblyInfoInputs.cache
+E:\course work\GameStore\GameStore.Api\obj\Debug\net6.0\GameStore.Api.AssemblyInfo.cs
+E:\course work\GameStore\GameStore.Api\obj\Debug\net6.0\GameStore.Api.csproj.CoreCompileInputs.cache
+E:\course work\GameStore\GameStore.Api\obj\Debug\net6.0\GameStore.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\course work\GameStore\GameStore.Api\obj\Debug\net6.0\staticwebassets\msbuild.GameStore.Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\course work\GameStore\GameStore.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.GameStore.Api.props
+E:\course work\GameStore\GameStore.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GameStore.Api.props
+E:\course work\GameStore\GameStore.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GameStore.Api.props
+E:\course work\GameStore\GameStore.Api\obj\Debug\net6.0\staticwebassets.pack.json
+E:\course work\GameStore\GameStore.Api\obj\Debug\net6.0\staticwebassets.build.json
+E:\course work\GameStore\GameStore.Api\obj\Debug\net6.0\staticwebassets.development.json
+E:\course work\GameStore\GameStore.Api\obj\Debug\net6.0\scopedcss\bundle\GameStore.Api.styles.css
+E:\course work\GameStore\GameStore.Api\obj\Debug\net6.0\GameStore.Api.dll
+E:\course work\GameStore\GameStore.Api\obj\Debug\net6.0\refint\GameStore.Api.dll
+E:\course work\GameStore\GameStore.Api\obj\Debug\net6.0\GameStore.Api.pdb
+E:\course work\GameStore\GameStore.Api\obj\Debug\net6.0\GameStore.Api.genruntimeconfig.cache
+E:\course work\GameStore\GameStore.Api\obj\Debug\net6.0\ref\GameStore.Api.dll
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\MinimalApis.Extensions.dll
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\MiniValidation.dll
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\course work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\course work\GameStore\GameStore.Api\obj\Debug\net6.0\GameStore.Api.csproj.AssemblyReference.cache
+E:\course work\GameStore\GameStore.Api\obj\Debug\net6.0\GameStore.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\course work\GameStore\GameStore.Api\obj\Debug\net6.0\GameStor.5118A84D.Up2Date
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\appsettings.json
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\GameStore.Api.exe
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\GameStore.Api.deps.json
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\GameStore.Api.runtimeconfig.json
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\GameStore.Api.dll
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\GameStore.Api.pdb
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\Humanizer.dll
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\MinimalApis.Extensions.dll
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\MiniValidation.dll
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\System.Text.Json.dll
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Course Work\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Course Work\GameStore\GameStore.Api\obj\Debug\net6.0\GameStore.Api.csproj.AssemblyReference.cache
+D:\Course Work\GameStore\GameStore.Api\obj\Debug\net6.0\GameStore.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course Work\GameStore\GameStore.Api\obj\Debug\net6.0\GameStore.Api.AssemblyInfoInputs.cache
+D:\Course Work\GameStore\GameStore.Api\obj\Debug\net6.0\GameStore.Api.AssemblyInfo.cs
+D:\Course Work\GameStore\GameStore.Api\obj\Debug\net6.0\GameStore.Api.csproj.CoreCompileInputs.cache
+D:\Course Work\GameStore\GameStore.Api\obj\Debug\net6.0\GameStore.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Course Work\GameStore\GameStore.Api\obj\Debug\net6.0\GameStore.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Course Work\GameStore\GameStore.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Course Work\GameStore\GameStore.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Course Work\GameStore\GameStore.Api\obj\Debug\net6.0\staticwebassets\msbuild.GameStore.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Course Work\GameStore\GameStore.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.GameStore.Api.props
+D:\Course Work\GameStore\GameStore.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GameStore.Api.props
+D:\Course Work\GameStore\GameStore.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GameStore.Api.props
+D:\Course Work\GameStore\GameStore.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Course Work\GameStore\GameStore.Api\obj\Debug\net6.0\scopedcss\bundle\GameStore.Api.styles.css
+D:\Course Work\GameStore\GameStore.Api\obj\Debug\net6.0\GameStor.5118A84D.Up2Date
+D:\Course Work\GameStore\GameStore.Api\obj\Debug\net6.0\GameStore.Api.dll
+D:\Course Work\GameStore\GameStore.Api\obj\Debug\net6.0\refint\GameStore.Api.dll
+D:\Course Work\GameStore\GameStore.Api\obj\Debug\net6.0\GameStore.Api.pdb
+D:\Course Work\GameStore\GameStore.Api\obj\Debug\net6.0\GameStore.Api.genruntimeconfig.cache
+D:\Course Work\GameStore\GameStore.Api\obj\Debug\net6.0\ref\GameStore.Api.dll
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\GameStore.Api.exe
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\GameStore.Api.deps.json
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\GameStore.Api.runtimeconfig.json
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\GameStore.Api.dll
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\GameStore.Api.pdb
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\MinimalApis.Extensions.dll
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\MiniValidation.dll
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\obj\Debug\net6.0\GameStore.Api.csproj.AssemblyReference.cache
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\obj\Debug\net6.0\GameStore.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\obj\Debug\net6.0\GameStore.Api.AssemblyInfoInputs.cache
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\obj\Debug\net6.0\GameStore.Api.AssemblyInfo.cs
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\obj\Debug\net6.0\GameStore.Api.csproj.CoreCompileInputs.cache
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\obj\Debug\net6.0\GameStore.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\obj\Debug\net6.0\GameStore.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\obj\Debug\net6.0\staticwebassets\msbuild.GameStore.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.GameStore.Api.props
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GameStore.Api.props
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GameStore.Api.props
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\obj\Debug\net6.0\scopedcss\bundle\GameStore.Api.styles.css
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\obj\Debug\net6.0\GameStor.5118A84D.Up2Date
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\obj\Debug\net6.0\GameStore.Api.dll
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\obj\Debug\net6.0\refint\GameStore.Api.dll
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\obj\Debug\net6.0\GameStore.Api.pdb
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\obj\Debug\net6.0\GameStore.Api.genruntimeconfig.cache
+C:\Users\Abc\Desktop\GameStore\GameStore\GameStore.Api\obj\Debug\net6.0\ref\GameStore.Api.dll

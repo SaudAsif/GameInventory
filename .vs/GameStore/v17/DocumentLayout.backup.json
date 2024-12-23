@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Course Work\\GameStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{574AD281-F0CC-4DF5-A187-71B18B392A56}|GameStore.Api\\GameStore.Api.csproj|d:\\course work\\gamestore\\gamestore.api\\app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{574AD281-F0CC-4DF5-A187-71B18B392A56}|GameStore.Api\\GameStore.Api.csproj|solutionrelative:gamestore.api\\app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574AD281-F0CC-4DF5-A187-71B18B392A56}|GameStore.Api\\GameStore.Api.csproj|d:\\course work\\gamestore\\gamestore.api\\endpoints\\gamesendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574AD281-F0CC-4DF5-A187-71B18B392A56}|GameStore.Api\\GameStore.Api.csproj|solutionrelative:gamestore.api\\endpoints\\gamesendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574AD281-F0CC-4DF5-A187-71B18B392A56}|GameStore.Api\\GameStore.Api.csproj|d:\\course work\\gamestore\\gamestore.api\\dtos\\updategamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574AD281-F0CC-4DF5-A187-71B18B392A56}|GameStore.Api\\GameStore.Api.csproj|solutionrelative:gamestore.api\\dtos\\updategamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574AD281-F0CC-4DF5-A187-71B18B392A56}|GameStore.Api\\GameStore.Api.csproj|d:\\course work\\gamestore\\gamestore.api\\dtos\\creategamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574AD281-F0CC-4DF5-A187-71B18B392A56}|GameStore.Api\\GameStore.Api.csproj|solutionrelative:gamestore.api\\dtos\\creategamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574AD281-F0CC-4DF5-A187-71B18B392A56}|GameStore.Api\\GameStore.Api.csproj|d:\\course work\\gamestore\\gamestore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574AD281-F0CC-4DF5-A187-71B18B392A56}|GameStore.Api\\GameStore.Api.csproj|solutionrelative:gamestore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574AD281-F0CC-4DF5-A187-71B18B392A56}|GameStore.Api\\GameStore.Api.csproj|d:\\course work\\gamestore\\gamestore.api\\data\\dataextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574AD281-F0CC-4DF5-A187-71B18B392A56}|GameStore.Api\\GameStore.Api.csproj|solutionrelative:gamestore.api\\data\\dataextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574AD281-F0CC-4DF5-A187-71B18B392A56}|GameStore.Api\\GameStore.Api.csproj|d:\\course work\\gamestore\\gamestore.api\\mapping\\gamemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574AD281-F0CC-4DF5-A187-71B18B392A56}|GameStore.Api\\GameStore.Api.csproj|solutionrelative:gamestore.api\\mapping\\gamemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574AD281-F0CC-4DF5-A187-71B18B392A56}|GameStore.Api\\GameStore.Api.csproj|d:\\course work\\gamestore\\gamestore.api\\dtos\\gamedetaileddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574AD281-F0CC-4DF5-A187-71B18B392A56}|GameStore.Api\\GameStore.Api.csproj|solutionrelative:gamestore.api\\dtos\\gamedetaileddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574AD281-F0CC-4DF5-A187-71B18B392A56}|GameStore.Api\\GameStore.Api.csproj|d:\\course work\\gamestore\\gamestore.api\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574AD281-F0CC-4DF5-A187-71B18B392A56}|GameStore.Api\\GameStore.Api.csproj|solutionrelative:gamestore.api\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574AD281-F0CC-4DF5-A187-71B18B392A56}|GameStore.Api\\GameStore.Api.csproj|d:\\course work\\gamestore\\gamestore.api\\dtos\\gamesummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574AD281-F0CC-4DF5-A187-71B18B392A56}|GameStore.Api\\GameStore.Api.csproj|solutionrelative:gamestore.api\\dtos\\gamesummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GamesEndpoint.cs",
+              "DocumentMoniker": "D:\\Course Work\\GameStore\\GameStore.Api\\EndPoints\\GamesEndpoint.cs",
+              "RelativeDocumentMoniker": "GameStore.Api\\EndPoints\\GamesEndpoint.cs",
+              "ToolTip": "D:\\Course Work\\GameStore\\GameStore.Api\\EndPoints\\GamesEndpoint.cs",
+              "RelativeToolTip": "GameStore.Api\\EndPoints\\GamesEndpoint.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:02:37.572Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1559058043:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.http",
+              "DocumentMoniker": "D:\\Course Work\\GameStore\\GameStore.Api\\app.http",
+              "RelativeDocumentMoniker": "GameStore.Api\\app.http",
+              "ToolTip": "D:\\Course Work\\GameStore\\GameStore.Api\\app.http",
+              "RelativeToolTip": "GameStore.Api\\app.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-16T12:34:46.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataExtension.cs",
+              "DocumentMoniker": "D:\\Course Work\\GameStore\\GameStore.Api\\Data\\DataExtension.cs",
+              "RelativeDocumentMoniker": "GameStore.Api\\Data\\DataExtension.cs",
+              "ToolTip": "D:\\Course Work\\GameStore\\GameStore.Api\\Data\\DataExtension.cs",
+              "RelativeToolTip": "GameStore.Api\\Data\\DataExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T12:18:30.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Course Work\\GameStore\\GameStore.Api\\Program.cs",
+              "RelativeDocumentMoniker": "GameStore.Api\\Program.cs",
+              "ToolTip": "D:\\Course Work\\GameStore\\GameStore.Api\\Program.cs",
+              "RelativeToolTip": "GameStore.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T12:14:31.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateGameDto.cs",
+              "DocumentMoniker": "D:\\Course Work\\GameStore\\GameStore.Api\\DTOs\\UpdateGameDto.cs",
+              "RelativeDocumentMoniker": "GameStore.Api\\DTOs\\UpdateGameDto.cs",
+              "ToolTip": "D:\\Course Work\\GameStore\\GameStore.Api\\DTOs\\UpdateGameDto.cs",
+              "RelativeToolTip": "GameStore.Api\\DTOs\\UpdateGameDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T16:40:04.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateGameDto.cs",
+              "DocumentMoniker": "D:\\Course Work\\GameStore\\GameStore.Api\\DTOs\\CreateGameDto.cs",
+              "RelativeDocumentMoniker": "GameStore.Api\\DTOs\\CreateGameDto.cs",
+              "ToolTip": "D:\\Course Work\\GameStore\\GameStore.Api\\DTOs\\CreateGameDto.cs",
+              "RelativeToolTip": "GameStore.Api\\DTOs\\CreateGameDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:46:15.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameDetailedDto.cs",
+              "DocumentMoniker": "D:\\Course Work\\GameStore\\GameStore.Api\\DTOs\\GameDetailedDto.cs",
+              "RelativeDocumentMoniker": "GameStore.Api\\DTOs\\GameDetailedDto.cs",
+              "ToolTip": "D:\\Course Work\\GameStore\\GameStore.Api\\DTOs\\GameDetailedDto.cs",
+              "RelativeToolTip": "GameStore.Api\\DTOs\\GameDetailedDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:30:56.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameSummaryDto.cs",
+              "DocumentMoniker": "D:\\Course Work\\GameStore\\GameStore.Api\\DTOs\\GameSummaryDto.cs",
+              "RelativeDocumentMoniker": "GameStore.Api\\DTOs\\GameSummaryDto.cs",
+              "ToolTip": "D:\\Course Work\\GameStore\\GameStore.Api\\DTOs\\GameSummaryDto.cs",
+              "RelativeToolTip": "GameStore.Api\\DTOs\\GameSummaryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:26:09.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\Course Work\\GameStore\\GameStore.Api\\Entities\\Game.cs",
+              "RelativeDocumentMoniker": "GameStore.Api\\Entities\\Game.cs",
+              "ToolTip": "D:\\Course Work\\GameStore\\GameStore.Api\\Entities\\Game.cs",
+              "RelativeToolTip": "GameStore.Api\\Entities\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:23:33.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameMapping.cs",
+              "DocumentMoniker": "D:\\Course Work\\GameStore\\GameStore.Api\\Mapping\\GameMapping.cs",
+              "RelativeDocumentMoniker": "GameStore.Api\\Mapping\\GameMapping.cs",
+              "ToolTip": "D:\\Course Work\\GameStore\\GameStore.Api\\Mapping\\GameMapping.cs",
+              "RelativeToolTip": "GameStore.Api\\Mapping\\GameMapping.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:02:29.329Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

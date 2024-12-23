@@ -1,0 +1,29 @@
+# For more info on HTTP files go to https://aka.ms/vs/httpfile
+###
+GET https://localhost:7204/games/
+
+###
+POST https://localhost:7204/games
+Content-Type: application/json
+
+{
+  "name": "PUBG",
+  "genreId": 1,
+  "price": 7.99,
+  "relaseDate": "2010-06-15T00:00:00"
+}
+
+###
+PUT https://localhost:7204/games/1
+Content-Type: application/json
+
+
+{
+    "name": "CS G0",
+    "genreId": "1",
+    "price": 8.99,
+    "relaseDate": "2010-06-15T00:00:00"
+}
+
+###
+DELETE https://localhost:7204/games/3
